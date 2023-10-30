@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: " Customer churn analysis 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Analyse des données d'une banque pour comprendre pourquoi les clients cessent d'utiliser ses services : Nettoyage des données avec Power Query, création des mesures avec des formules DAX, et mise en place d’un rapport avec Power Bi",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Un ETL avec Python",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Extraction des données quotidiennes d’actifs financiers avec une API, transformation en un format approprié avec Pandas, puis chargement dans une base de données SQLite.",
+    url: "https://github.com/MedardTesla/ETL-with-python",
   },
   {
-    title: "My Resume Site",
+    title: " Sales analysis",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Requête SQL dans SQL Server Management Studio pour extraire les données nécessaires pour l’analyse. Connexion de Power bi avec la base de donnée et création d’un tableau de bord.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Segmentation des menages en groupes",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Identifier les ménages américains qui ont des difficultés à obtenir un crédit, puis de segmenter ces ménages en groupes en vue d'une sensibilisation ciblée : Analyse exploratoire des données, utilisations de l’algorithme du Kmeans pour segmenter mes données en cluster, utilisation de l’ACP pour réduire la dimension de mes données puis les visualiser avec Plotly.",
+    url: "https://github.com/MedardTesla/-Segmentation-des-menages-en-groupes",
   },
 ];
 
